@@ -1,0 +1,80 @@
+{
+  "hash": "21a96834",
+  "browserHash": "71f8b852",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "abb9d566",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "75a56fab",
+      "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "20525269",
+      "needsInterop": false
+    },
+    "valtio": {
+      "src": "../../node_modules/valtio/esm/index.mjs",
+      "file": "valtio.js",
+      "fileHash": "cb46b308",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "b27b0e13",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "acd1f4bb",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "b5d3f5c4",
+      "needsInterop": false
+    },
+    "maath": {
+      "src": "../../node_modules/maath/dist/maath.esm.js",
+      "file": "maath.js",
+      "fileHash": "6d42e02e",
+      "needsInterop": false
+    },
+    "react-color": {
+      "src": "../../node_modules/react-color/es/index.js",
+      "file": "react-color.js",
+      "fileHash": "0323adca",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-E643A3HC": {
+      "file": "chunk-E643A3HC.js"
+    },
+    "chunk-4WIY6TJ2": {
+      "file": "chunk-4WIY6TJ2.js"
+    },
+    "chunk-SF36B2VR": {
+      "file": "chunk-SF36B2VR.js"
+    },
+    "chunk-2PA4WPI3": {
+      "file": "chunk-2PA4WPI3.js"
+    },
+    "chunk-DG65JOJK": {
+      "file": "chunk-DG65JOJK.js"
+    },
+    "chunk-ROME4SDB": {
+      "file": "chunk-ROME4SDB.js"
+    }
+  }
+}
